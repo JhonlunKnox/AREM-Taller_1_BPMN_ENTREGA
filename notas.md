@@ -1,12 +1,12 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 1 Parte 1
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+01/08/2026
 
 ## 👥 Integrantes presentes
-- Juan Pablo Luna Zuleta
+- Juan Pablo Luna Chuleta
 - Alejandro Riveros Sobrina
-- Martin Ortega Solitaaaaa
+- Martin Ortega Solis
 
 ## 🧠 Actividades realizadas en clase
 
@@ -27,9 +27,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Modelado final en draw.io | Juan Pablo Luna | 10/08 |
+| Redacción del informe     | AlejandroRiveros | 11/08 |
+| Investigación y referencias | Martin Ortega | 12/08 |
 
 ---
 
