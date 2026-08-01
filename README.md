@@ -68,7 +68,6 @@ El enunciado del caso define el flujo como *selección de especialidad → médi
 
 ![Foto Diagrama](img/Diagrama.png)
 
-> Archivo fuente editable: `clase/modelo.drawio`. La imagen se exporta desde draw.io con *File → Export as → PNG* (fondo blanco, zoom 200%, borde 10 px) y se guarda como `img/Diagrama.png`.
 
 ## 📋 Tabla de actores, entidades o componentes
 
