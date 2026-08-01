@@ -27,6 +27,12 @@ Incluya un análisis sobre:
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
+| Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
+|---------------------|------|-------------|-------------|
+| Sistema de Citas       | Actor | Donde los Usuarios agendan una cita médica | Cliente |
+|---------------------|------|-------------|-------------|
+| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
+|---------------------|------|-------------|-------------|
 | Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
 
 ## 🔍 Investigación complementaria
