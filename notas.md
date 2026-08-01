@@ -12,8 +12,8 @@
 
 Describa brevemente qué se hizo durante la sesión:
 
-- ¿Qué se discutió con el equipo? 
-- ¿Qué decisiones de modelado se tomaron? 
+- ¿Qué se discutió con el equipo? Se discutio el flujo del sistema de agendamiento de citas
+- ¿Qué decisiones de modelado se tomaron? El flujo del sistema y los actores, decidimos usar dos, el paciente y el sistema. Con estos dos actores podemos hacer el sistema de agendamiento de citas con cualquier medico o especialista
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)? draw.io
 - ¿Qué parte del trabajo se alcanzó a desarrollar? Se alcanzo a desarrollar toda la primera parte del taller
 
