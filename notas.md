@@ -5,7 +5,7 @@
 
 ## 👥 Integrantes presentes
 - Juan Pablo Luna Zuleta
-- Alejandro Riveros Sobrina Diabetes
+- Alejandro Riveros Sobrino
 - Martin Ortega Solis
 
 ## 🧠 Actividades realizadas en clase
