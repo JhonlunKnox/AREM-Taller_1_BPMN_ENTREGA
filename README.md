@@ -7,8 +7,8 @@ Taller 1 — Modelado de Procesos de Negocio con BPMN
 ## 👥 Integrantes del equipo
 
 - Juan Pablo Luna Zuleta
-- Alejandro Riveros Sobrina
-- Martin Ortega Solito
+- Alejandro Riveros Sobrino
+- Martin Ortega Solis
 
 ## 🧠 Descripción general del trabajo
 
