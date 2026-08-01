@@ -21,7 +21,7 @@ Incluya un análisis sobre:
 - Qué supuestos se tomaron
 
 ## 📈 Diagrama final entregado
-![Foto Diagrama](img/Diagrama)
+![Foto Diagrama](img/Diagrama.png)
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
