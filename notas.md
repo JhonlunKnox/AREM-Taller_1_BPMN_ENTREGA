@@ -12,10 +12,10 @@
 
 Describa brevemente qué se hizo durante la sesión:
 
-- ¿Qué se discutió con el equipo?
-- ¿Qué decisiones de modelado se tomaron?
-- ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
-- ¿Qué parte del trabajo se alcanzó a desarrollar?
+- ¿Qué se discutió con el equipo? 
+- ¿Qué decisiones de modelado se tomaron? 
+- ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)? draw.io
+- ¿Qué parte del trabajo se alcanzó a desarrollar? Se alcanzo a desarrollar toda la primera parte del taller
 
 ## 🧩 Boceto inicial del modelo
 
@@ -27,10 +27,10 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Juan Pablo Luna | 10/08 |
-| Redacción del informe     | AlejandroRiveros | 11/08 |
-| Investigación y referencias | Martin Ortega | 12/08 |
+| Modelado final en draw.io | Juan Pablo Luna | 01/08 |
+| Redacción del informe     | AlejandroRiveros | 01/08 |
+| Investigación y referencias | Martin Ortega | 01/08 |
 
 ---
 
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._
+_Este documento resume el trabajo colaborativo realizado durante la sesión del Taller 1 en el curso AREM - Universidad de La Sabana._
