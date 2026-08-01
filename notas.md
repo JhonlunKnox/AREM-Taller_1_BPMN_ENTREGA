@@ -19,7 +19,7 @@ Describa brevemente qué se hizo durante la sesión:
 
 ## 🧩 Boceto inicial del modelo
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
+<img width="1502" height="692" alt="image" src="https://github.com/user-attachments/assets/8dcd9b9b-d9c2-41b8-9134-163c6200c1e5" />
 
 ## 🔁 Tareas definidas para complementar el taller
 
