@@ -4,8 +4,8 @@
 01/08/2026
 
 ## 👥 Integrantes presentes
-- Juan Pablo Luna Chuleta
-- Alejandro Riveros Sobrina
+- Juan Pablo Luna Zuleta
+- Alejandro Riveros Sobrina Diabetes
 - Martin Ortega Solis
 
 ## 🧠 Actividades realizadas en clase
